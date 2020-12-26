@@ -1,6 +1,6 @@
 import React from 'react';
 
-import image1 from '../../assets/images/modern-design.jpg';
+import image1 from '../../assets/images/ovni.png';
 import image2 from '../../assets/images/clean-design.jpg';
 import image3 from '../../assets/images/great-support.jpg';
 import image4 from '../../assets/images/easy-customise.jpg';
@@ -23,9 +23,9 @@ function AppFeature() {
           <Col xs={{ span: 24 }} sm={{ span: 12 }} md={{ span: 8 }}>
             <Card
               hoverable
-              cover={<img alt="Modern Design" src={image1} />}
+              cover={<img alt="Ovni " src={image1} />}
             >
-              <Meta title="Modern Design" />
+              <Meta title="Imagenes del Pentagono" />
             </Card>
           </Col>
           <Col xs={{ span: 24 }} sm={{ span: 12 }} md={{ span: 8 }}>

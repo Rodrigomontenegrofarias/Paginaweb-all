@@ -38,7 +38,7 @@ function AppHeader() {
             <Link href="#hero" title="Inicio" />
             <Link href="#about" title="Acerca de" />
             <Link href="#feature" title="Imagenes de ovnis" />
-            <Link href="#works" title="Imagen de la luna" />
+            <Link href="#works" title="Imagen de la luna y video relacionado" />
          
             <Link href="#contact" title="Contactanos" />
             
